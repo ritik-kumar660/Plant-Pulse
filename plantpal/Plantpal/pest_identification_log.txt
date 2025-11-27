@@ -1,0 +1,197 @@
+[2025-04-21 22:06:46] cURL Error: URL rejected: Malformed input to a URL function
+[2025-04-21 22:06:46] Error: URL rejected: Malformed input to a URL function
+[2025-04-21 22:09:05] [INFO] API Key loaded successfully
+[2025-04-21 22:09:05] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpDEC7.tmp","error":0,"size":666743}
+[2025-04-21 22:09:05] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a5e13b01d.jpg
+[2025-04-21 22:09:05] [INFO] Database record created with ID: 7
+[2025-04-21 22:09:05] [INFO] Image encoded successfully
+[2025-04-21 22:09:05] [INFO] Sending request to Gemini API
+[2025-04-21 22:09:05] [ERROR] cURL Error: URL rejected: Malformed input to a URL function
+[2025-04-21 22:09:05] [ERROR] #0 {main}
+[2025-04-21 22:11:07] [INFO] API Key loaded successfully
+[2025-04-21 22:11:07] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpBE17.tmp","error":0,"size":666743}
+[2025-04-21 22:11:07] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a65be2ea2.jpg
+[2025-04-21 22:11:07] [INFO] Database record created with ID: 8
+[2025-04-21 22:11:07] [INFO] Image encoded successfully
+[2025-04-21 22:11:07] [INFO] Sending request to Gemini API
+[2025-04-21 22:12:29] [INFO] API Key loaded successfully
+[2025-04-21 22:12:29] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpFDCC.tmp","error":0,"size":666743}
+[2025-04-21 22:12:29] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a6adbcf5c.jpg
+[2025-04-21 22:12:29] [INFO] Database record created with ID: 9
+[2025-04-21 22:12:29] [INFO] Image encoded successfully
+[2025-04-21 22:12:29] [INFO] Sending request to Gemini API
+[2025-04-21 22:14:11] [INFO] API Key loaded successfully
+[2025-04-21 22:14:11] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\php8AA7.tmp","error":0,"size":666743}
+[2025-04-21 22:14:11] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a7135b612.jpg
+[2025-04-21 22:14:11] [INFO] Database record created with ID: 10
+[2025-04-21 22:14:11] [INFO] Image encoded successfully
+[2025-04-21 22:14:11] [INFO] Sending request to Gemini API
+[2025-04-21 22:14:18] [INFO] API Text Response: ```json
+{
+  "name": "Tiphia wasp",
+  "confidence": 0.95,
+  "description": "The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects.  They are often associated with scarab beetle grubs, which they parasitize.  Adults are generally solitary and not considered directly harmful to plants themselves.  However, their presence can indicate a larger scarab beetle grub infestation.",
+  "treatments": [
+    "Monitor for scarab beetle grubs.  If a significant infestation is present, consider cultural controls such as crop rotation or soil improvement to reduce grub populations.",
+    "For severe infestations, biological control methods such as introducing beneficial nematodes or other natural enemies of scarab beetles may be effective.",
+    "Chemical control is generally not recommended for Tiphia wasps or scarab beetles unless the infestation is exceptionally severe and impacting crop yields significantly.  If chemical control is considered, consult with a local agricultural extension office for recommendations on appropriate insecticides and application methods."
+  ]
+}
+```
+
+[2025-04-21 22:14:18] [INFO] Pest identified: {"name":"Tiphia wasp","confidence":0.95,"description":"The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects.  They are often associated with scarab beetle grubs, which they parasitize.  Adults are generally solitary and not considered directly harmful to plants themselves.  However, their presence can indicate a larger scarab beetle grub infestation.","treatments":["Monitor for scarab beetle grubs.  If a significant infestation is present, consider cultural controls such as crop rotation or soil improvement to reduce grub populations.","For severe infestations, biological control methods such as introducing beneficial nematodes or other natural enemies of scarab beetles may be effective.","Chemical control is generally not recommended for Tiphia wasps or scarab beetles unless the infestation is exceptionally severe and impacting crop yields significantly.  If chemical control is considered, consult with a local agricultural extension office for recommendations on appropriate insecticides and application methods."]}
+[2025-04-21 22:14:18] [INFO] Results saved to database successfully
+[2025-04-21 22:15:49] [INFO] API Key loaded successfully
+[2025-04-21 22:15:49] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\php8BC.tmp","error":0,"size":666743}
+[2025-04-21 22:15:49] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a7752e7d0.jpg
+[2025-04-21 22:15:49] [INFO] Database record created with ID: 11
+[2025-04-21 22:15:49] [INFO] Image encoded successfully
+[2025-04-21 22:15:49] [INFO] Sending request to Gemini API
+[2025-04-21 22:15:54] [INFO] API Text Response: ```json
+{
+  "name": "Tiphia wasp",
+  "confidence": 0.95,
+  "description": "The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects, typically scarab beetle grubs.  They are not directly harmful to plants themselves, but they can indirectly benefit plants by controlling populations of root-feeding beetle larvae that can damage plant roots.  The specific species cannot be determined from the image alone.",
+  "treatments": []
+}
+```
+
+[2025-04-21 22:15:54] [INFO] Pest identified: {"name":"Tiphia wasp","confidence":0.95,"description":"The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects, typically scarab beetle grubs.  They are not directly harmful to plants themselves, but they can indirectly benefit plants by controlling populations of root-feeding beetle larvae that can damage plant roots.  The specific species cannot be determined from the image alone.","treatments":[]}
+[2025-04-21 22:15:54] [INFO] Results saved to database successfully
+[2025-04-21 22:16:32] [INFO] API Key loaded successfully
+[2025-04-21 22:16:32] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpB27A.tmp","error":0,"size":12807}
+[2025-04-21 22:16:32] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a7a09a7ab.jpg
+[2025-04-21 22:16:32] [INFO] Database record created with ID: 12
+[2025-04-21 22:16:32] [INFO] Image encoded successfully
+[2025-04-21 22:16:32] [INFO] Sending request to Gemini API
+[2025-04-21 22:16:35] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves by consuming the leaf tissue between the veins, as seen in the image.  They are voracious feeders and can cause significant damage to a wide variety of plants.",
+  "treatments": [
+    "Handpicking: Manually remove beetles from plants, especially in the early morning when they are less active. Dispose of them in soapy water.",
+    "Trapping: Use pheromone traps to attract and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in the immediate vicinity.",
+    "Insecticidal Soap: Apply insecticidal soap directly to the beetles. Repeat applications as needed.",
+    "Neem Oil: Spray neem oil on plants to deter beetles and disrupt their life cycle.  Multiple applications may be necessary.",
+    "Biological Control: Introduce beneficial nematodes (e.g., Heterorhabditis bacteriophora) into the soil to control beetle larvae.",
+    "Systemic Insecticides: Use systemic insecticides as a last resort, following label instructions carefully.  These should be used cautiously due to potential harm to beneficial insects and pollinators."
+  ]
+}
+```
+
+[2025-04-21 22:16:35] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves by consuming the leaf tissue between the veins, as seen in the image.  They are voracious feeders and can cause significant damage to a wide variety of plants.","treatments":["Handpicking: Manually remove beetles from plants, especially in the early morning when they are less active. Dispose of them in soapy water.","Trapping: Use pheromone traps to attract and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in the immediate vicinity.","Insecticidal Soap: Apply insecticidal soap directly to the beetles. Repeat applications as needed.","Neem Oil: Spray neem oil on plants to deter beetles and disrupt their life cycle.  Multiple applications may be necessary.","Biological Control: Introduce beneficial nematodes (e.g., Heterorhabditis bacteriophora) into the soil to control beetle larvae.","Systemic Insecticides: Use systemic insecticides as a last resort, following label instructions carefully.  These should be used cautiously due to potential harm to beneficial insects and pollinators."]}
+[2025-04-21 22:16:35] [INFO] Results saved to database successfully
+[2025-04-21 22:18:50] [INFO] API Key loaded successfully
+[2025-04-21 22:18:50] [INFO] File upload received: {"name":"Sceliphron_and_pest.jpg","full_path":"Sceliphron_and_pest.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpCD5C.tmp","error":0,"size":666743}
+[2025-04-21 22:18:50] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a82a99a42.jpg
+[2025-04-21 22:18:50] [INFO] Database record created with ID: 13
+[2025-04-21 22:18:50] [INFO] Image encoded successfully
+[2025-04-21 22:18:50] [INFO] Sending request to Gemini API
+[2025-04-21 22:18:55] [INFO] API Text Response: ```json
+{
+  "name": "Tiphia wasp",
+  "confidence": 0.95,
+  "description": "The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects, typically scarab beetles (like June bugs). They are not directly plant pests, but they can indirectly benefit plants by controlling populations of beetle larvae that damage roots and other plant parts.  The wasp itself does not feed on plant tissues.",
+  "treatments": []
+}
+```
+
+[2025-04-21 22:18:55] [INFO] Pest identified: {"name":"Tiphia wasp","confidence":0.95,"description":"The image shows a specimen of a Tiphia wasp.  Tiphia wasps are parasitoids, meaning their larvae develop inside the larvae of other insects, typically scarab beetles (like June bugs). They are not directly plant pests, but they can indirectly benefit plants by controlling populations of beetle larvae that damage roots and other plant parts.  The wasp itself does not feed on plant tissues.","treatments":[]}
+[2025-04-21 22:18:55] [INFO] Results saved to database successfully
+[2025-04-21 22:19:05] [INFO] API Key loaded successfully
+[2025-04-21 22:19:05] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\php759.tmp","error":0,"size":12807}
+[2025-04-21 22:19:05] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a83967b9e.jpg
+[2025-04-21 22:19:05] [INFO] Database record created with ID: 14
+[2025-04-21 22:19:05] [INFO] Image encoded successfully
+[2025-04-21 22:19:05] [INFO] Sending request to Gemini API
+[2025-04-21 22:19:09] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves by consuming the leaf tissue between the veins, as seen in the image.  They are voracious feeders and can cause significant damage to a wide variety of plants, including grapes, roses, and many other ornamentals and vegetables.",
+  "treatments": [
+    "Handpicking: Manually collect and destroy the beetles, especially in the early stages of infestation.",
+    "Trapping: Use pheromone traps to lure and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in other parts of the garden.",
+    "Insecticidal Soap: Apply insecticidal soap directly to the beetles. Repeat applications as needed.",
+    "Neem Oil: Spray neem oil on the plants to control beetle larvae and adults.  Follow product instructions carefully.",
+    "Bacillus thuringiensis (Bt):  Some formulations of Bt are effective against Japanese beetle larvae. Apply to the soil according to label instructions.",
+    "Systemic Insecticides:  Use as a last resort and only if other methods are ineffective.  Follow label instructions carefully and consider the impact on beneficial insects and pollinators."
+  ]
+}
+```
+
+[2025-04-21 22:19:09] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows multiple adult Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves by consuming the leaf tissue between the veins, as seen in the image.  They are voracious feeders and can cause significant damage to a wide variety of plants, including grapes, roses, and many other ornamentals and vegetables.","treatments":["Handpicking: Manually collect and destroy the beetles, especially in the early stages of infestation.","Trapping: Use pheromone traps to lure and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in other parts of the garden.","Insecticidal Soap: Apply insecticidal soap directly to the beetles. Repeat applications as needed.","Neem Oil: Spray neem oil on the plants to control beetle larvae and adults.  Follow product instructions carefully.","Bacillus thuringiensis (Bt):  Some formulations of Bt are effective against Japanese beetle larvae. Apply to the soil according to label instructions.","Systemic Insecticides:  Use as a last resort and only if other methods are ineffective.  Follow label instructions carefully and consider the impact on beneficial insects and pollinators."]}
+[2025-04-21 22:19:09] [INFO] Results saved to database successfully
+[2025-04-21 22:21:57] [INFO] API Key loaded successfully
+[2025-04-21 22:21:57] [INFO] File upload received: {"name":"Screenshot 2025-04-22 015146.png","full_path":"Screenshot 2025-04-22 015146.png","type":"image\/png","tmp_name":"C:\\xampp new\\tmp\\phpA835.tmp","error":0,"size":271959}
+[2025-04-21 22:21:57] [INFO] File saved successfully: C:\xampp new\htdocs\plantpal\Plantpal/uploads/pests/pest_6806a8e5a3156.png
+[2025-04-21 22:21:57] [INFO] Database record created with ID: 15
+[2025-04-21 22:21:57] [INFO] Image encoded successfully
+[2025-04-21 22:21:57] [INFO] Sending request to Gemini API
+[2025-04-21 22:22:03] [INFO] API Text Response: ```json
+{
+  "name": "European Corn Borer (larva)",
+  "confidence": 0.95,
+  "description": "The image shows a larva of the European Corn Borer (Ostrinia nubilalis).  This is a significant pest of maize (corn) and other plants. The larva is characterized by its light brown to tan color, numerous small dark spots along its body, and a dark head capsule.  The larva bores into the stalks and ears of corn, causing damage to the plant and reducing yield.  The presence of frass (insect excrement) is often associated with infestation.",
+  "treatments": [
+    "Monitor fields regularly for signs of infestation (e.g., holes in stalks, frass).",
+    "Use resistant corn hybrids that are less susceptible to borer damage.",
+    "Employ cultural practices such as crop rotation and timely planting to disrupt the pest's life cycle.",
+    "Consider biological control methods, such as introducing natural predators like parasitic wasps.",
+    "Apply insecticides specifically targeting corn borers, following label instructions carefully.  Consider using insecticides only when necessary and at the appropriate growth stage to minimize environmental impact.  Bacillus thuringiensis (Bt) is a biological insecticide option.",
+    "Remove and destroy infested plant material to reduce the overwintering population."
+  ]
+}
+```
+
+[2025-04-21 22:22:03] [INFO] Pest identified: {"name":"European Corn Borer (larva)","confidence":0.95,"description":"The image shows a larva of the European Corn Borer (Ostrinia nubilalis).  This is a significant pest of maize (corn) and other plants. The larva is characterized by its light brown to tan color, numerous small dark spots along its body, and a dark head capsule.  The larva bores into the stalks and ears of corn, causing damage to the plant and reducing yield.  The presence of frass (insect excrement) is often associated with infestation.","treatments":["Monitor fields regularly for signs of infestation (e.g., holes in stalks, frass).","Use resistant corn hybrids that are less susceptible to borer damage.","Employ cultural practices such as crop rotation and timely planting to disrupt the pest's life cycle.","Consider biological control methods, such as introducing natural predators like parasitic wasps.","Apply insecticides specifically targeting corn borers, following label instructions carefully.  Consider using insecticides only when necessary and at the appropriate growth stage to minimize environmental impact.  Bacillus thuringiensis (Bt) is a biological insecticide option.","Remove and destroy infested plant material to reduce the overwintering population."]}
+[2025-04-21 22:22:03] [INFO] Results saved to database successfully
+[2025-04-22 21:56:06] [INFO] API Key loaded successfully
+[2025-04-22 21:56:06] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\php5A9E.tmp","error":0,"size":12807}
+[2025-04-22 21:56:06] [INFO] File saved successfully: C:\xampp new\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_6807f456215c1.jpg
+[2025-04-22 21:56:06] [INFO] Database record created with ID: 24
+[2025-04-22 21:56:06] [INFO] Image encoded successfully
+[2025-04-22 21:56:06] [INFO] Sending request to Gemini API
+[2025-04-22 21:56:10] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows multiple Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green and copper-colored, with a distinctive tuft of white hairs on the abdomen. They are known for their characteristic feeding pattern, which leaves behind a skeletonized leaf with only the veins remaining, as seen in the picture.  They are voracious feeders and can severely damage a wide variety of plants.",
+  "treatments": [
+    "Handpicking: Manually remove beetles from plants, especially in the early morning when they are less active. Dispose of them in soapy water.",
+    "Trapping: Use pheromone traps to lure and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in some cases.",
+    "Insecticidal Soap: Apply insecticidal soap directly to the beetles, covering their bodies thoroughly. Repeat applications as needed.",
+    "Neem Oil: Spray neem oil on plants according to label instructions. This acts as a natural insecticide and can help control beetle populations.",
+    "Biological Control: Introduce beneficial nematodes (Heterorhabditis bacteriophora) into the soil. These nematodes attack the beetle larvae.",
+    "Systemic Insecticides: Use systemic insecticides as a last resort, following label instructions carefully. These are more toxic and should be used only when other methods have failed."
+  ]
+}
+```
+
+[2025-04-22 21:56:10] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows multiple Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green and copper-colored, with a distinctive tuft of white hairs on the abdomen. They are known for their characteristic feeding pattern, which leaves behind a skeletonized leaf with only the veins remaining, as seen in the picture.  They are voracious feeders and can severely damage a wide variety of plants.","treatments":["Handpicking: Manually remove beetles from plants, especially in the early morning when they are less active. Dispose of them in soapy water.","Trapping: Use pheromone traps to lure and capture beetles. Note that traps may attract beetles from surrounding areas, potentially increasing infestation in some cases.","Insecticidal Soap: Apply insecticidal soap directly to the beetles, covering their bodies thoroughly. Repeat applications as needed.","Neem Oil: Spray neem oil on plants according to label instructions. This acts as a natural insecticide and can help control beetle populations.","Biological Control: Introduce beneficial nematodes (Heterorhabditis bacteriophora) into the soil. These nematodes attack the beetle larvae.","Systemic Insecticides: Use systemic insecticides as a last resort, following label instructions carefully. These are more toxic and should be used only when other methods have failed."]}
+[2025-04-22 21:56:10] [INFO] Results saved to database successfully
+[2025-04-22 22:33:56] [INFO] API Key loaded successfully
+[2025-04-22 22:33:56] [INFO] File upload received: {"name":"images.jpg","full_path":"images.jpg","type":"image\/jpeg","tmp_name":"C:\\xampp new\\tmp\\phpFDE3.tmp","error":0,"size":12807}
+[2025-04-22 22:33:56] [INFO] File saved successfully: C:\xampp new\htdocs\grow glow\plantpal\Plantpal/uploads/pests/pest_6807fd3427113.jpg
+[2025-04-22 22:33:56] [INFO] Database record created with ID: 25
+[2025-04-22 22:33:56] [INFO] Image encoded successfully
+[2025-04-22 22:33:56] [INFO] Sending request to Gemini API
+[2025-04-22 22:34:00] [INFO] API Text Response: ```json
+{
+  "name": "Japanese Beetles",
+  "confidence": 0.95,
+  "description": "The image shows a cluster of Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves where they consume the leaf tissue between the veins, leaving behind a lacy appearance.  Adults feed on a wide variety of plants, including roses, grapes, and many other ornamentals and vegetables.  They are particularly damaging to plants during the summer months.",
+  "treatments": [
+    "Handpicking: Manually collect and destroy the beetles, especially in the early morning when they are less active.",
+    "Trapping: Use Japanese beetle traps, but be aware that they can attract beetles from a wider area and potentially increase infestation in some cases.  Place traps away from valuable plants.",
+    "Insecticidal Soap: Apply insecticidal soap directly to the beetles.  Repeat applications may be necessary.",
+    "Neem Oil: Apply neem oil according to label instructions. This is a more environmentally friendly option.",
+    "Bacterium Bacillus thuringiensis (Bt):  Certain strains of Bt are effective against Japanese beetle larvae.  Apply to the soil to control grubs.",
+    "Systemic Insecticides:  Use only as a last resort and follow label instructions carefully.  These are more toxic to beneficial insects and the environment."
+  ]
+}
+```
+
+[2025-04-22 22:34:00] [INFO] Pest identified: {"name":"Japanese Beetles","confidence":0.95,"description":"The image shows a cluster of Japanese beetles (Popillia japonica) feeding on a leaf.  These beetles are metallic green with copper-colored wing covers.  They are known for their characteristic feeding pattern, creating skeletonized leaves where they consume the leaf tissue between the veins, leaving behind a lacy appearance.  Adults feed on a wide variety of plants, including roses, grapes, and many other ornamentals and vegetables.  They are particularly damaging to plants during the summer months.","treatments":["Handpicking: Manually collect and destroy the beetles, especially in the early morning when they are less active.","Trapping: Use Japanese beetle traps, but be aware that they can attract beetles from a wider area and potentially increase infestation in some cases.  Place traps away from valuable plants.","Insecticidal Soap: Apply insecticidal soap directly to the beetles.  Repeat applications may be necessary.","Neem Oil: Apply neem oil according to label instructions. This is a more environmentally friendly option.","Bacterium Bacillus thuringiensis (Bt):  Certain strains of Bt are effective against Japanese beetle larvae.  Apply to the soil to control grubs.","Systemic Insecticides:  Use only as a last resort and follow label instructions carefully.  These are more toxic to beneficial insects and the environment."]}
+[2025-04-22 22:34:00] [INFO] Results saved to database successfully
